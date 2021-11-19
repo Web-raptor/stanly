@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'PartnerCondensed Regular';
+    src: url('../fonts/partnercondensed-webfont.eot');
+    src: url('../fonts/partnercondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/partnercondensed-webfont.woff') format('woff'),
+         url('../fonts/partnercondensed-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PartnerCondensed Bold';
+    src: url('../fonts/partnercondensed-bold-webfont.eot');
+    src: url('../fonts/partnercondensed-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/partnercondensed-bold-webfont.woff') format('woff'),
+         url('../fonts/partnercondensed-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PartnerCondensed Bold Italic';
+    src: url('../fonts/partnercondensed-bolditalic-webfont.eot');
+    src: url('../fonts/partnercondensed-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/partnercondensed-bolditalic-webfont.woff') format('woff'),
+         url('../fonts/partnercondensed-bolditalic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PartnerCondensed Italic';
+    src: url('../fonts/partnercondensed-italic-webfont.eot');
+    src: url('../fonts/partnercondensed-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/partnercondensed-italic-webfont.woff') format('woff'),
+         url('../fonts/partnercondensed-italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
